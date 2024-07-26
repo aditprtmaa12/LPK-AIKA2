@@ -1,0 +1,59 @@
+[17-Oct-2021 15:50:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alfakirw/public_html/demo-database/ppdb/config/database.php on line 9
+[17-Oct-2021 23:02:26 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/alfakirw/public_html/demo-database/ppdb/daftar.php on line 149
+[14-Mar-2022 08:39:42 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Mar-2022 08:47:36 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Mar-2022 09:54:37 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Mar-2022 10:42:40 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Mar-2022 10:43:07 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Mar-2022 10:51:48 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Mar-2022 11:01:47 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Mar-2022 11:21:29 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Mar-2022 04:24:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1203): User u5581581_ppdb_2021 already has more than 'max_user_connections' active connections in /home/u5581581/public_html/ppdb/config/database.php on line 10
+[14-Mar-2022 04:24:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1203): User u5581581_ppdb_2021 already has more than 'max_user_connections' active connections in /home/u5581581/public_html/ppdb/config/database.php on line 10
+[14-Mar-2022 11:26:51 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Mar-2022 11:27:11 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Mar-2022 11:27:28 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Mar-2022 11:27:34 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Mar-2022 11:35:33 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Mar-2022 11:41:48 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[15-Mar-2022 09:53:53 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[15-Mar-2022 11:18:51 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[15-Mar-2022 11:46:43 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[15-Mar-2022 13:58:21 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[15-Mar-2022 13:58:35 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[15-Mar-2022 14:49:47 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[15-Mar-2022 17:54:05 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[15-Mar-2022 18:00:41 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[15-Mar-2022 18:04:54 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[16-Mar-2022 09:14:55 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[16-Mar-2022 10:00:21 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[16-Mar-2022 10:21:42 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[16-Mar-2022 16:35:49 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[16-Mar-2022 18:08:39 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[29-Mar-2022 02:39:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Resource temporarily unavailable in /home/u5581581/public_html/ppdb/config/database.php on line 10
+[29-Mar-2022 02:39:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Resource temporarily unavailable in /home/u5581581/public_html/ppdb/config/database.php on line 10
+[29-Mar-2022 02:40:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Resource temporarily unavailable in /home/u5581581/public_html/ppdb/config/database.php on line 10
+[29-Mar-2022 02:45:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Resource temporarily unavailable in /home/u5581581/public_html/ppdb/config/database.php on line 10
+[11-May-2022 08:52:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u5581581/public_html/ppdb/config/function.php on line 2
+[11-May-2022 08:52:58 Asia/Jakarta] PHP Notice:  Undefined offset: 2 in /home/u5581581/public_html/ppdb/config/function.php on line 460
+[11-May-2022 08:52:58 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5581581/public_html/ppdb/config/function.php on line 460
+[11-May-2022 08:52:58 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/u5581581/public_html/ppdb/config/function.php on line 460
+[11-May-2022 08:52:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u5581581/public_html/ppdb/config/function.php on line 2
+[11-May-2022 08:52:59 Asia/Jakarta] PHP Notice:  Undefined offset: 2 in /home/u5581581/public_html/ppdb/config/function.php on line 460
+[11-May-2022 08:52:59 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5581581/public_html/ppdb/config/function.php on line 460
+[11-May-2022 08:52:59 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/u5581581/public_html/ppdb/config/function.php on line 460
+[11-May-2022 08:52:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u5581581/public_html/ppdb/config/function.php on line 2
+[11-May-2022 08:52:59 Asia/Jakarta] PHP Notice:  Undefined offset: 2 in /home/u5581581/public_html/ppdb/config/function.php on line 460
+[11-May-2022 08:52:59 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5581581/public_html/ppdb/config/function.php on line 460
+[11-May-2022 08:52:59 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/u5581581/public_html/ppdb/config/function.php on line 460
+[11-May-2022 08:53:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u5581581/public_html/ppdb/config/function.php on line 2
+[11-May-2022 08:53:00 Asia/Jakarta] PHP Notice:  Undefined offset: 2 in /home/u5581581/public_html/ppdb/config/function.php on line 460
+[11-May-2022 08:53:00 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/u5581581/public_html/ppdb/config/function.php on line 460
+[11-May-2022 08:53:00 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/u5581581/public_html/ppdb/config/function.php on line 460
+[26-Sep-2022 15:21:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/u5581581/public_html/ppdb/config/database.php on line 10
+[18-Nov-2022 17:30:18 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[11-Jan-2023 23:39:32 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[11-Jan-2023 23:40:25 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[13-Jan-2023 15:38:00 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[13-Jan-2023 20:17:59 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158
+[14-Jan-2023 20:45:53 Asia/Jakarta] PHP Notice:  Undefined variable: daftar in /home/u5581581/public_html/ppdb/daftar.php on line 158

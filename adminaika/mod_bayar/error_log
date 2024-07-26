@@ -1,0 +1,29 @@
+[02-Nov-2021 12:58:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/psbmtsnw/public_html/config/functions.crud.php on line 61
+[02-Nov-2021 12:58:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Dompdf' not found in /home/psbmtsnw/public_html/adminppdb/mod_bayar/print_kwitansi.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/psbmtsnw/public_html/adminppdb/mod_bayar/print_kwitansi.php on line 83
+[03-Nov-2021 00:37:12 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/psbmtsnw/public_html/adminppdb/mod_bayar/crud_bayar.php on line 48
+[03-Nov-2021 00:37:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/psbmtsnw/public_html/adminppdb/mod_bayar/crud_bayar.php on line 49
+[03-Nov-2021 00:38:17 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/psbmtsnw/public_html/adminppdb/mod_bayar/crud_bayar.php on line 48
+[03-Nov-2021 00:38:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/psbmtsnw/public_html/adminppdb/mod_bayar/crud_bayar.php on line 49
+[03-Nov-2021 00:39:17 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/psbmtsnw/public_html/adminppdb/mod_bayar/crud_bayar.php on line 48
+[03-Nov-2021 00:39:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/psbmtsnw/public_html/adminppdb/mod_bayar/crud_bayar.php on line 49
+[16-Mar-2022 09:35:30 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 57
+[16-Mar-2022 09:35:30 Asia/Jakarta] PHP Notice:  Undefined variable: pesanWA in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 63
+[19-Mar-2022 01:22:12 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 57
+[19-Mar-2022 01:22:12 Asia/Jakarta] PHP Notice:  Undefined variable: pesanWA in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 63
+[21-Mar-2022 12:10:33 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 57
+[21-Mar-2022 12:10:33 Asia/Jakarta] PHP Notice:  Undefined variable: pesanWA in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 63
+[23-Mar-2022 11:11:06 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/u5581581/public_html/ppdb/config/function.php on line 455
+[24-Mar-2022 10:04:17 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/u5581581/public_html/ppdb/config/function.php on line 455
+[11-Jan-2023 23:48:37 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 57
+[11-Jan-2023 23:48:37 Asia/Jakarta] PHP Notice:  Undefined variable: pesanWA in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 63
+[11-Jan-2023 23:48:57 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 57
+[11-Jan-2023 23:48:57 Asia/Jakarta] PHP Notice:  Undefined variable: pesanWA in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 63
+[11-Jan-2023 23:49:03 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 57
+[11-Jan-2023 23:49:03 Asia/Jakarta] PHP Notice:  Undefined variable: pesanWA in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 63
+[13-Jan-2023 17:04:35 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 57
+[13-Jan-2023 17:04:35 Asia/Jakarta] PHP Notice:  Undefined variable: pesanWA in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 63
+[14-Jan-2023 20:53:07 Asia/Jakarta] PHP Notice:  Undefined variable: user in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 57
+[14-Jan-2023 20:53:07 Asia/Jakarta] PHP Notice:  Undefined variable: pesanWA in /home/u5581581/public_html/ppdb/adminppdb/mod_bayar/crud_bayar.php on line 63

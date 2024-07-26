@@ -1,0 +1,8 @@
+{
+    "require": {
+        "dompdf/dompdf": "^3.0",
+        "phpoffice/phpword": "^1.2",
+        "guzzlehttp/guzzle": "^7.8",
+        "zamzar/zamzar-php": "^2.0"
+    }
+}

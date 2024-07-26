@@ -1,0 +1,12 @@
+[18-Nov-2022 17:29:34 Asia/Jakarta] PHP Notice:  Undefined index: klikchat in /home/u5581581/public_html/ppdb/adminppdb/mod_setting/crud_setting.php on line 66
+[18-Nov-2022 17:29:34 Asia/Jakarta] PHP Notice:  Undefined index: apikey in /home/u5581581/public_html/ppdb/adminppdb/mod_setting/crud_setting.php on line 69
+[18-Nov-2022 17:29:34 Asia/Jakarta] PHP Notice:  Undefined index: sender in /home/u5581581/public_html/ppdb/adminppdb/mod_setting/crud_setting.php on line 70
+[18-Nov-2022 17:29:34 Asia/Jakarta] PHP Notice:  Undefined index: server in /home/u5581581/public_html/ppdb/adminppdb/mod_setting/crud_setting.php on line 71
+[18-Nov-2022 17:34:02 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/u5581581/public_html/ppdb/adminppdb/mod_setting/crud_setting.php on line 101
+[14-Jan-2023 19:10:33 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/u5581581/public_html/ppdb/adminppdb/mod_setting/crud_setting.php on line 101
+[14-Jan-2023 19:11:20 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/u5581581/public_html/ppdb/adminppdb/mod_setting/crud_setting.php on line 101
+[14-Jan-2023 19:12:10 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/u5581581/public_html/ppdb/adminppdb/mod_setting/crud_setting.php on line 101
+[14-Jan-2023 21:08:25 Asia/Jakarta] PHP Notice:  Undefined index: klikchat in /home/u5581581/public_html/ppdb/adminppdb/mod_setting/crud_setting.php on line 66
+[14-Jan-2023 21:08:25 Asia/Jakarta] PHP Notice:  Undefined index: apikey in /home/u5581581/public_html/ppdb/adminppdb/mod_setting/crud_setting.php on line 69
+[14-Jan-2023 21:08:25 Asia/Jakarta] PHP Notice:  Undefined index: sender in /home/u5581581/public_html/ppdb/adminppdb/mod_setting/crud_setting.php on line 70
+[14-Jan-2023 21:08:25 Asia/Jakarta] PHP Notice:  Undefined index: server in /home/u5581581/public_html/ppdb/adminppdb/mod_setting/crud_setting.php on line 71
